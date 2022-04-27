@@ -1,0 +1,24 @@
+{
+  "name": "fantastic-carnival",
+  "version": "1.0.0",
+  "description": "a fantastic carnival of api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhowardschimmel/fantastic-carnival.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jhowardschimmel/fantastic-carnival/issues"
+  },
+  "homepage": "https://github.com/Jhowardschimmel/fantastic-carnival#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "mysql2": "^2.3.3"
+  }
+}
